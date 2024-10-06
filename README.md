@@ -47,7 +47,7 @@ refer to the following command:
 - the tool has to be in a path that Unreal will search for!
 
 ```python
-from unrealScriptEditor import main
+from unreal_script_editor import main
 global editor
 editor = main.show()
 ```
